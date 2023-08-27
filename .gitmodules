@@ -1,0 +1,6 @@
+[submodule "espresso-logic"]
+	path = espresso-logic
+	url = git@github.com:yokeTH/espresso-logic.git
+[submodule "Digital"]
+	path = Digital
+	url = git@github.com:yokeTH/Digital.git
