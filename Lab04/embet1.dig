@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<circuit>
+  <version>2</version>
+  <attributes/>
+  <visualElements>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>0</string>
+        </entry>
+      </elementAttributes>
+      <pos x="220" y="80"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>1</string>
+        </entry>
+      </elementAttributes>
+      <pos x="220" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>2</string>
+        </entry>
+      </elementAttributes>
+      <pos x="220" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>In</elementName>
+      <elementAttributes>
+        <entry>
+          <string>Label</string>
+          <string>3</string>
+        </entry>
+      </elementAttributes>
+      <pos x="220" y="320"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes/>
+      <pos x="280" y="80"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes/>
+      <pos x="280" y="160"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes/>
+      <pos x="280" y="240"/>
+    </visualElement>
+    <visualElement>
+      <elementName>Out</elementName>
+      <elementAttributes/>
+      <pos x="280" y="320"/>
+    </visualElement>
+  </visualElements>
+  <wires/>
+  <measurementOrdering/>
+</circuit>
